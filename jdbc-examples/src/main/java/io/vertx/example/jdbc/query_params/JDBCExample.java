@@ -13,7 +13,7 @@ import io.vertx.ext.sql.SQLConnection;
  * @author <a href="mailto:pmlopes@gmail.com">Paulo Lopes</a>
  */
 public class JDBCExample extends AbstractVerticle {
-
+//测试提交
   // Convenience method so you can run it in your IDE
   public static void main(String[] args) {
     Runner.runExample(JDBCExample.class);
